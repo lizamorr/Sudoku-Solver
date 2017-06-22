@@ -1,5 +1,4 @@
 # Sudoku-Solver
-code to solve sudoku puzzles
 
 Liza Morrison
 CS221
